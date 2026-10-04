@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+
+# PyInstaller generated directories
+build/
+dist/
+
+# Temporary files
+*.log
