@@ -65,7 +65,7 @@ Project-related JSON documentation/configuration.
 Python dependencies required by the application.
 
 **`R.jpg`**
-Supporting project resource.
+Project's logo
 
 ### `ExecutableProgramSource/`
 
